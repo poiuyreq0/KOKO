@@ -1,0 +1,9 @@
+[submodule "KOKOServer"]
+	path = KOKOServer
+	url = https://github.com/poiuyreq0/KOKOServer.git
+[submodule "KOKOApp"]
+	path = KOKOApp
+	url = https://github.com/poiuyreq0/KOKOApp.git
+[submodule "KOKOCafe"]
+	path = KOKOCafe
+	url = https://github.com/poiuyreq0/KOKOCafe.git
