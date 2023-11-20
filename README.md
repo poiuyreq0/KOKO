@@ -4,7 +4,7 @@
 
 ## System Design
   - ### System Requirements
-  <img src="https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/56565382-7ece-451e-9d0a-fa45643257b5" width="750" height="400"/>
+  <img src="https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/79b587f9-0e33-446a-858d-ce166e5850b0" width="750" height="400"/>
   <img src="https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/89fa29e6-18f5-4719-8bc6-bd56e43838b7" width="750" height="400"/>
 
   
