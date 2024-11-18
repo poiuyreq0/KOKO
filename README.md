@@ -2,10 +2,9 @@
 이 프로젝트는 원본 프로젝트 [YOLOv8](https://github.com/ultralytics/ultralytics)을 기반으로 수정 및 사용되었습니다.
 
 
-## System Design
-  - ### System Requirements
-  <img src="https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/79b587f9-0e33-446a-858d-ce166e5850b0" width="750" height="400"/>
-  <img src="https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/89fa29e6-18f5-4719-8bc6-bd56e43838b7" width="750" height="400"/>
+## System Architecture
+<img src="https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/79b587f9-0e33-446a-858d-ce166e5850b0" width="750" height="400"/>
+<img src="https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/89fa29e6-18f5-4719-8bc6-bd56e43838b7" width="750" height="400"/>
 
   
 ## Conclusion
